@@ -6,7 +6,7 @@ import "@fontsource/ibm-plex-mono/400.css"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Electronicweb — Practical tech, delivered",
+  title: "Vinsera — Practical tech, delivered",
   description: "Shop reliable electronics with instant guest checkout, eSewa payment, and verified delivery.",
 }
 
