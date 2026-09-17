@@ -7,7 +7,7 @@ import type { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: "Electronicweb — Practical tech, delivered",
-  description: "Shop reliable electronics with simple guest checkout and verified payments.",
+  description: "Shop reliable electronics with instant guest checkout, eSewa payment, and verified delivery.",
 }
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
